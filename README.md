@@ -43,4 +43,4 @@ Models are evaluated using:
 - **Claim Frequency**: Ensures predicted frequencies are aligned with actual averages.
 
 ## Author
-Automated Agentic Coding Assistant
+Bertrand GAKIZA
