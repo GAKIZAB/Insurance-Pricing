@@ -21,19 +21,6 @@ The models compared are:
 - `data/`: Placeholder for the `data.csv` dataset.
 - `logs/`: Directory for application logs.
 
-## Setup
-
-1. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-2. Place the dataset `data.csv` in the `data/` directory.
-
-3. Run the main analysis:
-   ```bash
-   python main.py
-   ```
 
 ## Evaluation Metrics
 
